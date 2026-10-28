@@ -1,0 +1,5 @@
+payment_method,count,mean
+Bank transfer,1190,0.3487394957983193
+Credit card,1173,0.3316283034953112
+Electronic check,1716,0.4551282051282051
+Mailed check,921,0.3322475570032573

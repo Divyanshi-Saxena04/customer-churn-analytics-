@@ -1,0 +1,21 @@
+{
+  "best_model": "Logistic Regression",
+  "threshold": 0.37,
+  "churn_rate": 0.3782,
+  "arpu": 60.900608000000005,
+  "top20_capture": 0.41534391534391535,
+  "top_decile_lift": 2.195767195767196,
+  "n_train": 4000,
+  "n_test": 1000,
+  "tn": 432,
+  "fp": 190,
+  "fn": 70,
+  "tp": 308,
+  "top_features": [
+    "contract",
+    "tenure_months",
+    "monthly_charges",
+    "total_charges",
+    "payment_method"
+  ]
+}

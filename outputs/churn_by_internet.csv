@@ -1,0 +1,4 @@
+internet_service,count,mean
+DSL,1817,0.2685745734727573
+Fiber optic,2213,0.5268865793041121
+No internet,970,0.2443298969072165
